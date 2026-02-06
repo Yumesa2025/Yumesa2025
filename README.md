@@ -28,4 +28,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumesa2025&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
+
+
+    https://lyjduswls.tistory.com/17
