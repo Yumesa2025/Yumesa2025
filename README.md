@@ -44,6 +44,34 @@ AI를 좋아하고, 기술과 창의적인 표현을 연결하는 개발자입�
 
 </div>
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ Smart Raid Planner</h3>
+      <p>World of Warcraft 공대장을 위한 레이드 운영 도구입니다. 공대 명단 구성, 거래·골드 정산, Warcraft Logs 전투 분석을 한 곳에서 다룹니다.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
+      <a href="https://github.com/Yumesa2025/srp-web">Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Visual Spec Builder</h3>
+      <p>자연어와 GUI 조작으로 화면을 JSON Visual Spec으로 만들고, Codex·Claude Code가 실제 React 코드로 구현할 수 있도록 연결하는 도구입니다.</p>
+      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
+      <a href="https://github.com/visual-spec-labs/Visual-Spec-Builder">Repository →</a>
+    </td>
+  </tr>
+</table>
+
+### 🔥 Currently Building
+
+<div align="center">
+  <a href="https://github.com/Yumesa2025/Minecraft_HPShareMod/releases">
+    <img src="https://img.shields.io/badge/Minecraft%20HP%20Share%20Mod-Fabric%20Co--op-7F5AF0?style=for-the-badge&logo=modrinth&logoColor=white" alt="Minecraft HP Share Mod" />
+  </a>
+  <p>최대 4명이 인벤토리 · 체력 · 배고픔 · 경험치를 함께 공유하는 Minecraft Fabric 협동 모드입니다.</p>
+</div>
+
 ## 📊 GitHub Activity
 
 <div align="center">
