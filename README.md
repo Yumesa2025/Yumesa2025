@@ -40,7 +40,7 @@ AI를 좋아하고, 기술과 창의적인 표현을 연결하는 개발자입�
 
 | 🤖 AI | 🎨 Interactive Web | 🎬 Motion | 🎧 Sound |
 |:---:|:---:|:---:|:---:|
-| AI tools & workflows | Three.js · WebGL | Remotion | Audio · Music · Sound design |
+| <a href="https://github.com/vignesh07/aside">Aside · AI tools &amp; workflows</a> | Three.js · WebGL | <a href="https://github.com/remotion-dev/remotion">Remotion</a> | Audio · Music · Sound design |
 
 </div>
 
