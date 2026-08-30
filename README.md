@@ -65,13 +65,11 @@ AI를 좋아하고, 기술과 창의적인 표현을 연결하는 개발자입�
 
 ## 🐍 Contribution Animation
 
-커밋이 쌓일수록 아래 애니메이션이 자동으로 업데이트됩니다.
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+    <img width="100%" src="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
   </picture>
 </div>
 
@@ -85,7 +83,6 @@ AI를 좋아하고, 기술과 창의적인 표현을 연결하는 개발자입�
 
 <div align="center">
   <a href="mailto:sirtangky2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://lyjduswls.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory blog" /></a>
   <a href="https://github.com/Yumesa2025"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
