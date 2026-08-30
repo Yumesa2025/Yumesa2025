@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:16161A&height=220&section=header&text=Yumesa2025&fontSize=64&fontColor=FFFFFE&fontAlignY=38&desc=Build%20with%20curiosity.%20Ship%20with%20purpose.&descAlignY=62&descSize=16&animation=fadeIn" alt="Yumesa2025 header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:16161A&height=220&section=header&text=Kairen&fontSize=64&fontColor=FFFFFE&fontAlignY=38&desc=Build%20with%20curiosity.%20Ship%20with%20purpose.&descAlignY=62&descSize=16&animation=fadeIn" alt="Kairen header" />
 
 <a href="https://github.com/Yumesa2025">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=AI+%26+Creative+Technology+Explorer;JavaScript+%7C+React+%7C+Next.js+%7C+Node.js;Turning+ideas+into+interactive+experiences+%F0%9F%9A%80" alt="Typing animation" />
