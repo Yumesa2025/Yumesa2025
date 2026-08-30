@@ -47,16 +47,20 @@ AI를 좋아하고, 기술과 창의적인 표현을 연결하는 개발자입�
 ## 📊 GitHub Activity
 
 <div align="center">
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yumesa2025&show_icons=true&hide_border=true&theme=github_dark&title_color=7F5AF0&icon_color=2CB67D&include_all_commits=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yumesa2025&show_icons=true&hide_border=true&theme=default&title_color=7F5AF0&icon_color=2CB67D&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yumesa2025&show_icons=true&hide_border=true&theme=default&title_color=7F5AF0&icon_color=2CB67D" alt="GitHub stats" />
+    <img width="495" src="https://github-readme-stats.vercel.app/api?username=Yumesa2025&show_icons=true&hide_border=true&theme=default&title_color=7F5AF0&icon_color=2CB67D" alt="GitHub stats" />
   </picture>
+</div>
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumesa2025&layout=compact&hide_border=true&theme=github_dark&title_color=7F5AF0&text_color=ADBAC7&langs_count=8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumesa2025&layout=compact&hide_border=true&theme=default&title_color=7F5AF0&text_color=57606A&langs_count=8" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumesa2025&layout=compact&hide_border=true&theme=default&title_color=7F5AF0&langs_count=8" alt="Top languages" />
+    <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumesa2025&layout=compact&hide_border=true&theme=default&title_color=7F5AF0&text_color=57606A&langs_count=8" alt="Top languages" />
   </picture>
+</div>
 </div>
 
 <div align="center">
@@ -67,9 +71,9 @@ AI를 좋아하고, 기술과 창의적인 표현을 연결하는 개발자입�
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/output/github-contribution-grid-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/gh-pages/github-contribution-grid-snake.svg" />
+    <img width="100%" height="auto" src="https://raw.githubusercontent.com/Yumesa2025/Yumesa2025/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
   </picture>
 </div>
 
